@@ -1,0 +1,31 @@
+body{
+	background-image: url(https://image.freepik.com/free-vector/brush-strokes-background_53876-89328.jpg);
+}
+/*.jumbotron{
+	animation: slidein 3s ease-in 1s both running;
+}
+@Keyframes slidein{
+	from {
+    margin-left: 100%;
+    width: 90%; 
+  }
+
+  to {
+    margin-left: 0%;
+    width: 90%;
+
+}
+.animation{
+	animation:  bounce 5s ease-in 4s both running;
+}
+@Keyframes bounce{
+	from {
+    margin-left: 100%;
+    width: 30%; 
+  }
+
+  to {
+    margin-left: 0%;
+    width: 30%;
+
+}*/
